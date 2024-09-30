@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🧙‍♂️ I'm a software engineer, CEO at Interart Software (@interart-software)
+- 💻 Web development with C#, PHP, Javascript, MySQL, Postgres & Sass
+- 💡 "Ten thousand difficulties do not make one doubt." ~ Isaac Newton
+
 <!--
 **silviodelgado/silviodelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=silviodelgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviodelgado&layout=compact&langs_count=7&theme=dark"/>
+</div>
