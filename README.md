@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🧙‍♂️ I'm a software engineer, CEO at Interart Software (@interart-software)
+- 🧙‍♂️ I'm a software engineer, CEO at Interart Software (<a href="https://github.com/interart-software">@interart-software</a>)
 - 💻 Web development with C#, PHP, Javascript, MySQL, Postgres & Sass
 - 💡 "Ten thousand difficulties do not make one doubt." ~ Isaac Newton
 
